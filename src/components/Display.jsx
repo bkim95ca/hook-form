@@ -9,7 +9,6 @@ const Display = (props) => {
         <p>Email: {props.email}</p>
         <p>Password: {props.password}</p>
         <p>Confirm PW: {props.confirmPw}</p>
-
     </fieldset>
   )
 }
